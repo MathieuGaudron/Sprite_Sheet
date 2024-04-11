@@ -1,0 +1,20 @@
+.img1 {
+ background-image: url('./images/Itachi.png');
+	width: 800px;
+	height: 1240px;
+}
+.img2 {
+ background-image: url('./images/sous_images/madara.png');
+	width: 800px;
+	height: 1240px;
+}
+.img3 {
+ background-image: url('./images/Pain.png');
+	width: 800px;
+	height: 1240px;
+}
+.img4 {
+ background-image: url('./images/Obito.png');
+	width: 800px;
+	height: 1240px;
+}
